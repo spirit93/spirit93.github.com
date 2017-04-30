@@ -30,7 +30,7 @@ setParams({
         */
     minEdgeWidth : 5,
     maxEdgeWidth : 5,
-    textDisplayThreshold: 9,
+    textDisplayThreshold: 16,
     nodeSizeFactor : 1,
         /*
             Change this parameter for smaller or larger nodes
