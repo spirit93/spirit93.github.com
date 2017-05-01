@@ -41,7 +41,7 @@ setParams({
             Enable the replacement of Urls by Hyperlinks
             this setting can't be changed from the User Interface
         */
-    showEdgeWeight : false,
+    showEdgeWeight : true,
         /*
             Show the weight of edges in the list
             this setting can't be changed from the User Interface
