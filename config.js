@@ -18,7 +18,7 @@ setParams({
         /*
             Default zoom level. At zoom = 0, the graph should fill a 800x700px zone
          */
-    curvedEdges : false,
+    curvedEdges : true,
         /*
             False for curved edges, true for straight edges
             this setting can't be changed from the User Interface
@@ -30,7 +30,7 @@ setParams({
         */
     minEdgeWidth : 5,
     maxEdgeWidth : 5,
-    textDisplayThreshold: 9,
+    textDisplayThreshold: 10,
     nodeSizeFactor : 1,
         /*
             Change this parameter for smaller or larger nodes
@@ -41,7 +41,7 @@ setParams({
             Enable the replacement of Urls by Hyperlinks
             this setting can't be changed from the User Interface
         */
-    showEdgeWeight : false,
+    showEdgeWeight : true,
         /*
             Show the weight of edges in the list
             this setting can't be changed from the User Interface
