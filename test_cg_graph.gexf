@@ -6,653 +6,618 @@
   </meta>
   <graph defaultedgetype="undirected" mode="static">
     <nodes>
-      <node id="85" label="устройств">
+      <node id="87" label="устройств">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-591.6403" y="749.33984"></viz:position>
-        <viz:color r="204" g="109" b="22"></viz:color>
+        <viz:position x="-1370.9889" y="-157.44296"></viz:position>
+        <viz:color r="188" g="32" b="204"></viz:color>
       </node>
       <node id="100" label="TOPIC_0">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-546.02893" y="314.49084"></viz:position>
-        <viz:color r="104" g="13" b="204"></viz:color>
+        <viz:position x="698.33246" y="293.0573"></viz:position>
+        <viz:color r="53" g="244" b="142"></viz:color>
       </node>
       <node id="101" label="TOPIC_1">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-870.10693" y="-270.2339"></viz:position>
-        <viz:color r="204" g="31" b="201"></viz:color>
+        <viz:position x="-1228.1901" y="337.57022"></viz:position>
+        <viz:color r="122" g="204" b="194"></viz:color>
       </node>
       <node id="102" label="TOPIC_2">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="319.57135" y="-644.78705"></viz:position>
-        <viz:color r="105" g="55" b="204"></viz:color>
+        <viz:position x="-976.4124" y="-409.00827"></viz:position>
+        <viz:color r="12" g="21" b="204"></viz:color>
       </node>
       <node id="103" label="TOPIC_3">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1049.4276" y="405.50336"></viz:position>
-        <viz:color r="204" g="190" b="14"></viz:color>
+        <viz:position x="-19.799164" y="-466.42188"></viz:position>
+        <viz:color r="105" g="55" b="204"></viz:color>
       </node>
       <node id="104" label="TOPIC_4">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="665.405" y="293.2158"></viz:position>
-        <viz:color r="21" g="39" b="244"></viz:color>
+        <viz:position x="-557.9343" y="426.1728"></viz:position>
+        <viz:color r="159" g="244" b="200"></viz:color>
       </node>
       <node id="105" label="TOPIC_5">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="293.43866" y="631.0311"></viz:position>
-        <viz:color r="51" g="200" b="204"></viz:color>
+        <viz:position x="-415.6483" y="654.0738"></viz:position>
+        <viz:color r="236" g="178" b="68"></viz:color>
       </node>
       <node id="106" label="TOPIC_6">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="669.1079" y="-184.04352"></viz:position>
-        <viz:color r="204" g="113" b="96"></viz:color>
+        <viz:position x="678.9811" y="-129.7657"></viz:position>
+        <viz:color r="24" g="153" b="204"></viz:color>
       </node>
       <node id="107" label="TOPIC_7">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1139.2695" y="80.6797"></viz:position>
-        <viz:color r="40" g="204" b="4"></viz:color>
+        <viz:position x="-337.38538" y="-23.353058"></viz:position>
+        <viz:color r="204" g="8" b="26"></viz:color>
       </node>
       <node id="108" label="TOPIC_8">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-342.6537" y="698.3262"></viz:position>
-        <viz:color r="204" g="109" b="22"></viz:color>
+        <viz:position x="-1193.6575" y="-90.7841"></viz:position>
+        <viz:color r="188" g="32" b="204"></viz:color>
       </node>
       <node id="109" label="TOPIC_9">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-505.4344" y="-612.4212"></viz:position>
-        <viz:color r="104" g="13" b="204"></viz:color>
+        <viz:position x="680.70233" y="582.795"></viz:position>
+        <viz:color r="53" g="244" b="142"></viz:color>
       </node>
-      <node id="56" label="проектирование">
+      <node id="57" label="проектирование">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="138.38757" y="458.60617"></viz:position>
-        <viz:color r="51" g="200" b="204"></viz:color>
+        <viz:position x="-495.38712" y="818.15735"></viz:position>
+        <viz:color r="244" g="158" b="33"></viz:color>
       </node>
       <node id="55" label="рендеринг">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="462.69733" y="694.7692"></viz:position>
-        <viz:color r="51" g="200" b="204"></viz:color>
+        <viz:position x="-141.88493" y="674.58246"></viz:position>
+        <viz:color r="244" g="158" b="33"></viz:color>
       </node>
-      <node id="48" label="реальностью">
+      <node id="47" label="реальностью">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="904.69006" y="229.26122"></viz:position>
-        <viz:color r="21" g="39" b="244"></viz:color>
+        <viz:position x="-343.2483" y="347.86172"></viz:position>
+        <viz:color r="184" g="204" b="28"></viz:color>
       </node>
       <node id="93" label="изображения">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-749.1434" y="-703.20734"></viz:position>
-        <viz:color r="56" g="13" b="204"></viz:color>
+        <viz:position x="815.55054" y="706.11835"></viz:position>
+        <viz:color r="97" g="204" b="8"></viz:color>
       </node>
-      <node id="97" label="обработки">
+      <node id="6" label="пользователей">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-288.16522" y="-675.46893"></viz:position>
-        <viz:color r="56" g="13" b="204"></viz:color>
+        <viz:position x="979.1322" y="103.204895"></viz:position>
+        <viz:color r="33" g="204" b="140"></viz:color>
       </node>
-      <node id="8" label="пользователей">
+      <node id="26" label="group">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-306.9519" y="298.46228"></viz:position>
-        <viz:color r="242" g="0" b="0"></viz:color>
+        <viz:position x="-938.11316" y="-346.1889"></viz:position>
+        <viz:color r="12" g="21" b="204"></viz:color>
       </node>
-      <node id="36" label="rhino">
+      <node id="69" label="базе">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1017.40295" y="327.58844"></viz:position>
-        <viz:color r="204" g="190" b="14"></viz:color>
+        <viz:position x="544.7766" y="-264.16995"></viz:position>
+        <viz:color r="24" g="153" b="204"></viz:color>
       </node>
-      <node id="25" label="group">
+      <node id="58" label="трассировка_лучей">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="539.54236" y="-678.441"></viz:position>
-        <viz:color r="105" g="55" b="204"></viz:color>
+        <viz:position x="-67.555954" y="619.3867"></viz:position>
+        <viz:color r="244" g="158" b="33"></viz:color>
       </node>
-      <node id="57" label="трассировка_лучей">
+      <node id="60" label="сцены">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="496.86865" y="546.35266"></viz:position>
-        <viz:color r="51" g="200" b="204"></viz:color>
-      </node>
-      <node id="59" label="сцены">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="121.571815" y="609.85236"></viz:position>
-        <viz:color r="51" g="200" b="204"></viz:color>
+        <viz:position x="-232.46384" y="838.83795"></viz:position>
+        <viz:color r="244" g="158" b="33"></viz:color>
       </node>
       <node id="68" label="решений">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="761.33936" y="-383.9242"></viz:position>
-        <viz:color r="204" g="113" b="96"></viz:color>
+        <viz:position x="625.1117" y="-9.524712"></viz:position>
+        <viz:color r="24" g="153" b="204"></viz:color>
       </node>
-      <node id="35" label="maya">
+      <node id="34" label="maya">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1215.367" y="422.13403"></viz:position>
-        <viz:color r="204" g="190" b="14"></viz:color>
-      </node>
-      <node id="20" label="гарнитуры">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-720.3395" y="-372.99707"></viz:position>
-        <viz:color r="204" g="31" b="201"></viz:color>
+        <viz:position x="-15.570549" y="-661.8224"></viz:position>
+        <viz:color r="105" g="55" b="204"></viz:color>
       </node>
       <node id="46" label="пользователя">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="756.2529" y="98.49994"></viz:position>
-        <viz:color r="21" g="39" b="244"></viz:color>
+        <viz:position x="-662.584" y="248.99611"></viz:position>
+        <viz:color r="184" g="204" b="28"></viz:color>
       </node>
-      <node id="67" label="управления">
+      <node id="66" label="управления">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="539.0853" y="-373.8283"></viz:position>
-        <viz:color r="204" g="113" b="96"></viz:color>
+        <viz:position x="486.11368" y="-202.93265"></viz:position>
+        <viz:color r="24" g="153" b="204"></viz:color>
       </node>
-      <node id="16" label="vive">
+      <node id="18" label="vive">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-942.43994" y="-181.08458"></viz:position>
-        <viz:color r="204" g="31" b="201"></viz:color>
+        <viz:position x="-1092.4536" y="384.3908"></viz:position>
+        <viz:color r="122" g="204" b="194"></viz:color>
       </node>
       <node id="51" label="визуализация">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="222.99825" y="726.35406"></viz:position>
-        <viz:color r="51" g="200" b="204"></viz:color>
+        <viz:position x="-337.84756" y="879.1875"></viz:position>
+        <viz:color r="236" g="178" b="68"></viz:color>
       </node>
-      <node id="98" label="изображение">
+      <node id="99" label="изображение">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-751.15985" y="-618.03906"></viz:position>
-        <viz:color r="56" g="13" b="204"></viz:color>
+        <viz:position x="474.77637" y="518.19556"></viz:position>
+        <viz:color r="97" g="204" b="8"></viz:color>
       </node>
       <node id="53" label="изображений">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="331.27087" y="483.61404"></viz:position>
-        <viz:color r="51" g="200" b="204"></viz:color>
+        <viz:position x="-61.46495" y="804.0631"></viz:position>
+        <viz:color r="244" g="158" b="33"></viz:color>
       </node>
-      <node id="14" label="google">
+      <node id="16" label="google">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1084.8535" y="-249.10661"></viz:position>
-        <viz:color r="204" g="31" b="201"></viz:color>
+        <viz:position x="-1059.3673" y="327.49936"></viz:position>
+        <viz:color r="122" g="204" b="194"></viz:color>
       </node>
-      <node id="15" label="htc">
+      <node id="17" label="htc">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-966.6626" y="-418.67047"></viz:position>
-        <viz:color r="204" g="31" b="201"></viz:color>
+        <viz:position x="-1320.5304" y="446.14053"></viz:position>
+        <viz:color r="122" g="204" b="194"></viz:color>
       </node>
-      <node id="77" label="графический">
+      <node id="78" label="графический">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1010.8057" y="-9.830444"></viz:position>
-        <viz:color r="40" g="204" b="4"></viz:color>
+        <viz:position x="-490.78616" y="93.676765"></viz:position>
+        <viz:color r="204" g="8" b="26"></viz:color>
       </node>
       <node id="75" label="реальность">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1395.7712" y="-54.94011"></viz:position>
-        <viz:color r="40" g="204" b="4"></viz:color>
+        <viz:position x="-219.79916" y="-92.67146"></viz:position>
+        <viz:color r="204" g="8" b="26"></viz:color>
       </node>
-      <node id="50" label="реального">
+      <node id="92" label="графики">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="601.8628" y="158.1805"></viz:position>
-        <viz:color r="21" g="39" b="244"></viz:color>
-      </node>
-      <node id="94" label="графики">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-680.1748" y="-778.8265"></viz:position>
-        <viz:color r="56" g="13" b="204"></viz:color>
+        <viz:position x="437.80054" y="660.86053"></viz:position>
+        <viz:color r="97" g="204" b="8"></viz:color>
       </node>
       <node id="37" label="design">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1001.81305" y="476.51794"></viz:position>
-        <viz:color r="204" g="190" b="14"></viz:color>
+        <viz:position x="206.0127" y="-679.9297"></viz:position>
+        <viz:color r="105" g="55" b="204"></viz:color>
       </node>
-      <node id="12" label="компании">
+      <node id="14" label="компании">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1104.072" y="-292.13348"></viz:position>
-        <viz:color r="204" g="31" b="201"></viz:color>
+        <viz:position x="-1418.7603" y="398.9171"></viz:position>
+        <viz:color r="122" g="204" b="194"></viz:color>
+      </node>
+      <node id="50" label="сцен">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-527.9957" y="320.3232"></viz:position>
+        <viz:color r="184" g="204" b="28"></viz:color>
       </node>
       <node id="43" label="графика">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="898.4468" y="273.6156"></viz:position>
-        <viz:color r="21" g="39" b="244"></viz:color>
+        <viz:position x="-756.32227" y="314.9969"></viz:position>
+        <viz:color r="184" g="204" b="28"></viz:color>
       </node>
-      <node id="70" label="визуализировать">
+      <node id="70" label="сети">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="555.65643" y="-83.93339"></viz:position>
-        <viz:color r="204" g="113" b="96"></viz:color>
+        <viz:position x="554.35876" y="-83.07556"></viz:position>
+        <viz:color r="24" g="153" b="204"></viz:color>
       </node>
-      <node id="66" label="vmware">
+      <node id="67" label="визуализировать">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="876.6143" y="-284.8281"></viz:position>
-        <viz:color r="204" g="113" b="96"></viz:color>
+        <viz:position x="754.9768" y="-291.39426"></viz:position>
+        <viz:color r="24" g="153" b="204"></viz:color>
       </node>
-      <node id="6" label="устройства">
+      <node id="65" label="vmware">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-301.93597" y="117.27655"></viz:position>
-        <viz:color r="242" g="0" b="0"></viz:color>
+        <viz:position x="766.75714" y="-50.750423"></viz:position>
+        <viz:color r="24" g="153" b="204"></viz:color>
       </node>
-      <node id="99" label="среду">
+      <node id="89" label="устройства">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-473.84058" y="-779.99713"></viz:position>
-        <viz:color r="56" g="13" b="204"></viz:color>
+        <viz:position x="-1012.9301" y="-114.52418"></viz:position>
+        <viz:color r="188" g="32" b="204"></viz:color>
       </node>
-      <node id="29" label="устройство">
+      <node id="72" label="виртуального">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="353.94116" y="-751.7248"></viz:position>
-        <viz:color r="105" g="55" b="204"></viz:color>
+        <viz:position x="-224.36754" y="-201.93274"></viz:position>
+        <viz:color r="204" g="8" b="26"></viz:color>
       </node>
-      <node id="26" label="chaos">
+      <node id="27" label="chaos">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="465.5677" y="-716.01215"></viz:position>
-        <viz:color r="105" g="55" b="204"></viz:color>
+        <viz:position x="-1145.6896" y="-562.7937"></viz:position>
+        <viz:color r="12" g="21" b="204"></viz:color>
       </node>
-      <node id="47" label="компьютерных">
+      <node id="25" label="rhino">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="866.74316" y="172.66821"></viz:position>
-        <viz:color r="21" g="39" b="244"></viz:color>
+        <viz:position x="-1013.46826" y="-548.3727"></viz:position>
+        <viz:color r="12" g="21" b="204"></viz:color>
       </node>
-      <node id="79" label="камеры">
+      <node id="80" label="камеры">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1221.7094" y="-30.55785"></viz:position>
-        <viz:color r="40" g="204" b="4"></viz:color>
+        <viz:position x="-491.94165" y="-111.59282"></viz:position>
+        <viz:color r="204" g="8" b="26"></viz:color>
       </node>
-      <node id="88" label="разработки">
+      <node id="77" label="3d">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-421.41608" y="556.264"></viz:position>
-        <viz:color r="204" g="109" b="22"></viz:color>
+        <viz:position x="-266.55814" y="627.53"></viz:position>
+        <viz:color r="253" g="159" b="36"></viz:color>
       </node>
-      <node id="19" label="приложения">
+      <node id="10" label="приложение">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-806.94086" y="-425.6302"></viz:position>
-        <viz:color r="204" g="31" b="201"></viz:color>
+        <viz:position x="532.5513" y="240.09033"></viz:position>
+        <viz:color r="33" g="204" b="140"></viz:color>
       </node>
-      <node id="71" label="3d">
+      <node id="9" label="hololens">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1359.4575" y="52.419174"></viz:position>
-        <viz:color r="40" g="204" b="4"></viz:color>
-      </node>
-      <node id="30" label="россии">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="522.9557" y="-553.9293"></viz:position>
-        <viz:color r="105" g="55" b="204"></viz:color>
+        <viz:position x="649.63086" y="170.01617"></viz:position>
+        <viz:color r="33" g="204" b="140"></viz:color>
       </node>
       <node id="45" label="среды">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="766.6757" y="374.6366"></viz:position>
-        <viz:color r="21" g="39" b="244"></viz:color>
+        <viz:position x="-777.2366" y="376.2974"></viz:position>
+        <viz:color r="184" g="204" b="28"></viz:color>
       </node>
-      <node id="65" label="приложений">
+      <node id="64" label="приложений">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="666.0344" y="-421.09155"></viz:position>
-        <viz:color r="204" g="113" b="96"></viz:color>
+        <viz:position x="937.13165" y="-185.06932"></viz:position>
+        <viz:color r="24" g="153" b="204"></viz:color>
       </node>
-      <node id="18" label="игр">
+      <node id="20" label="игр">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-891.22394" y="-387.3434"></viz:position>
-        <viz:color r="204" g="31" b="201"></viz:color>
+        <viz:position x="-1050.5691" y="232.08534"></viz:position>
+        <viz:color r="122" g="204" b="194"></viz:color>
       </node>
-      <node id="40" label="iray">
+      <node id="29" label="iray">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1110.888" y="491.56268"></viz:position>
-        <viz:color r="204" g="190" b="14"></viz:color>
+        <viz:position x="-805.0131" y="-382.70493"></viz:position>
+        <viz:color r="12" g="21" b="204"></viz:color>
       </node>
-      <node id="83" label="создавать">
+      <node id="40" label="autocad">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-505.5758" y="655.15344"></viz:position>
-        <viz:color r="204" g="109" b="22"></viz:color>
+        <viz:position x="213.17001" y="-538.84717"></viz:position>
+        <viz:color r="105" g="55" b="204"></viz:color>
       </node>
-      <node id="82" label="компания">
+      <node id="83" label="компания">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-298.62973" y="758.9697"></viz:position>
-        <viz:color r="204" g="109" b="22"></viz:color>
+        <viz:position x="-1264.3917" y="-269.32123"></viz:position>
+        <viz:color r="188" g="32" b="204"></viz:color>
       </node>
       <node id="2" label="реальности">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-602.42114" y="395.13123"></viz:position>
-        <viz:color r="242" g="0" b="0"></viz:color>
+        <viz:position x="868.58435" y="157.96957"></viz:position>
+        <viz:color r="33" g="204" b="140"></viz:color>
       </node>
       <node id="54" label="моделирования">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="514.26514" y="602.33026"></viz:position>
-        <viz:color r="51" g="200" b="204"></viz:color>
+        <viz:position x="-104.60716" y="726.21484"></viz:position>
+        <viz:color r="244" g="158" b="33"></viz:color>
+      </node>
+      <node id="8" label="дизайна">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="787.91345" y="368.00626"></viz:position>
+        <viz:color r="33" g="204" b="140"></viz:color>
       </node>
       <node id="61" label="виртуализация">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="888.4347" y="-215.85437"></viz:position>
-        <viz:color r="204" g="113" b="96"></viz:color>
+        <viz:position x="972.13696" y="-123.1745"></viz:position>
+        <viz:color r="24" g="153" b="204"></viz:color>
       </node>
       <node id="1" label="дополненной">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-666.0608" y="245.12924"></viz:position>
-        <viz:color r="242" g="0" b="0"></viz:color>
+        <viz:position x="958.0032" y="225.11613"></viz:position>
+        <viz:color r="33" g="204" b="140"></viz:color>
       </node>
-      <node id="90" label="версии">
+      <node id="76" label="версии">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-197.64745" y="727.74536"></viz:position>
-        <viz:color r="204" g="109" b="22"></viz:color>
+        <viz:position x="-541.9958" y="-57.87023"></viz:position>
+        <viz:color r="204" g="8" b="26"></viz:color>
       </node>
-      <node id="9" label="apple">
+      <node id="7" label="apple">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-665.58734" y="342.41418"></viz:position>
-        <viz:color r="242" g="0" b="0"></viz:color>
+        <viz:position x="613.874" y="366.7078"></viz:position>
+        <viz:color r="33" g="204" b="140"></viz:color>
       </node>
       <node id="32" label="3ds">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1193.3558" y="360.85287"></viz:position>
-        <viz:color r="204" g="190" b="14"></viz:color>
-      </node>
-      <node id="39" label="rendering">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-875.0136" y="377.60764"></viz:position>
-        <viz:color r="204" g="190" b="14"></viz:color>
-      </node>
-      <node id="74" label="виртуальный">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-1415.0388" y="206.60248"></viz:position>
-        <viz:color r="40" g="204" b="4"></viz:color>
-      </node>
-      <node id="89" label="трехмерные">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-181.66248" y="661.2743"></viz:position>
-        <viz:color r="204" g="109" b="22"></viz:color>
-      </node>
-      <node id="22" label="шлем">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="130.30194" y="-652.51917"></viz:position>
+        <viz:position x="-148.82117" y="-543.9234"></viz:position>
         <viz:color r="105" g="55" b="204"></viz:color>
       </node>
-      <node id="38" label="autocad">
+      <node id="38" label="rendering">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-896.8255" y="433.61572"></viz:position>
-        <viz:color r="204" g="190" b="14"></viz:color>
+        <viz:position x="168.01831" y="-459.65186"></viz:position>
+        <viz:color r="105" g="55" b="204"></viz:color>
       </node>
-      <node id="87" label="gear">
+      <node id="95" label="создавать">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-259.36725" y="594.6607"></viz:position>
-        <viz:color r="204" g="109" b="22"></viz:color>
+        <viz:position x="885.0865" y="639.3964"></viz:position>
+        <viz:color r="97" g="204" b="8"></viz:color>
+      </node>
+      <node id="73" label="виртуальный">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-559.57574" y="22.854107"></viz:position>
+        <viz:color r="204" g="8" b="26"></viz:color>
+      </node>
+      <node id="84" label="шлем">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1445.3083" y="239.89128"></viz:position>
+        <viz:color r="160" g="210" b="235"></viz:color>
+      </node>
+      <node id="28" label="gpu">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1177.9552" y="-419.07388"></viz:position>
+        <viz:color r="12" g="21" b="204"></viz:color>
+      </node>
+      <node id="90" label="gear">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1083.0217" y="-47.292175"></viz:position>
+        <viz:color r="188" g="32" b="204"></viz:color>
       </node>
       <node id="62" label="данных">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="695.8374" y="-116.59007"></viz:position>
-        <viz:color r="204" g="113" b="96"></viz:color>
+        <viz:position x="862.634" y="-238.59698"></viz:position>
+        <viz:color r="24" g="153" b="204"></viz:color>
       </node>
-      <node id="76" label="дополненная">
+      <node id="98" label="виртуальных">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1219.7385" y="156.90369"></viz:position>
-        <viz:color r="40" g="204" b="4"></viz:color>
+        <viz:position x="642.19745" y="769.9523"></viz:position>
+        <viz:color r="97" g="204" b="8"></viz:color>
+      </node>
+      <node id="79" label="дополненная">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-391.34955" y="-157.90857"></viz:position>
+        <viz:color r="204" g="8" b="26"></viz:color>
       </node>
       <node id="49" label="реальном">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="494.29266" y="329.76236"></viz:position>
-        <viz:color r="21" g="39" b="244"></viz:color>
+        <viz:position x="-342.74677" y="458.56903"></viz:position>
+        <viz:color r="159" g="244" b="200"></viz:color>
       </node>
-      <node id="84" label="samsung">
+      <node id="86" label="samsung">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-483.2062" y="608.2613"></viz:position>
-        <viz:color r="204" g="109" b="22"></viz:color>
+        <viz:position x="-1136.5736" y="-225.55313"></viz:position>
+        <viz:color r="188" g="32" b="204"></viz:color>
       </node>
-      <node id="21" label="виртуальная_реальность">
+      <node id="81" label="виртуальная_реальность">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="158.80591" y="-579.5716"></viz:position>
-        <viz:color r="105" g="55" b="204"></viz:color>
+        <viz:position x="-1299.6909" y="204.40565"></viz:position>
+        <viz:color r="160" g="210" b="235"></viz:color>
       </node>
       <node id="33" label="autodesk">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1120.9738" y="283.57187"></viz:position>
-        <viz:color r="204" g="190" b="14"></viz:color>
+        <viz:position x="51.500534" y="-579.13715"></viz:position>
+        <viz:color r="105" g="55" b="204"></viz:color>
       </node>
-      <node id="41" label="виртуальной">
+      <node id="44" label="виртуальной">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="869.3477" y="321.71732"></viz:position>
-        <viz:color r="21" g="39" b="244"></viz:color>
+        <viz:position x="-305.0265" y="411.08997"></viz:position>
+        <viz:color r="70" g="244" b="146"></viz:color>
       </node>
-      <node id="58" label="моделей">
+      <node id="59" label="моделей">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="122.70813" y="665.93396"></viz:position>
-        <viz:color r="51" g="200" b="204"></viz:color>
+        <viz:position x="-485.87805" y="738.8368"></viz:position>
+        <viz:color r="244" g="158" b="33"></viz:color>
       </node>
-      <node id="81" label="vr">
+      <node id="82" label="vr">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-437.7904" y="746.4312"></viz:position>
-        <viz:color r="204" g="109" b="22"></viz:color>
+        <viz:position x="-1359.5448" y="-70.1062"></viz:position>
+        <viz:color r="188" g="32" b="204"></viz:color>
       </node>
-      <node id="34" label="ray">
+      <node id="35" label="ray">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1182.9757" y="460.2939"></viz:position>
-        <viz:color r="204" g="190" b="14"></viz:color>
+        <viz:position x="-794.03656" y="-506.6101"></viz:position>
+        <viz:color r="33" g="32" b="244"></viz:color>
       </node>
-      <node id="10" label="обеспечение">
+      <node id="48" label="обеспечение">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-348.47134" y="363.70514"></viz:position>
-        <viz:color r="242" g="0" b="0"></viz:color>
-      </node>
-      <node id="60" label="трехмерной">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="75.75745" y="537.98175"></viz:position>
-        <viz:color r="51" g="200" b="204"></viz:color>
+        <viz:position x="-397.046" y="268.13107"></viz:position>
+        <viz:color r="184" g="204" b="28"></viz:color>
       </node>
       <node id="24" label="технологий">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="205.16135" y="-717.2388"></viz:position>
-        <viz:color r="105" g="55" b="204"></viz:color>
+        <viz:position x="-862.23615" y="-570.8348"></viz:position>
+        <viz:color r="12" g="21" b="204"></viz:color>
       </node>
-      <node id="63" label="технологии">
+      <node id="21" label="технологии">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="469.21786" y="-138.90082"></viz:position>
-        <viz:color r="204" g="113" b="96"></viz:color>
+        <viz:position x="-1216.6752" y="-507.01978"></viz:position>
+        <viz:color r="12" g="21" b="204"></viz:color>
       </node>
-      <node id="78" label="программного">
+      <node id="91" label="векторная_графика">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1334.6516" y="14.391342"></viz:position>
-        <viz:color r="40" g="204" b="4"></viz:color>
+        <viz:position x="944.1901" y="576.07166"></viz:position>
+        <viz:color r="97" g="204" b="8"></viz:color>
       </node>
-      <node id="92" label="векторная_графика">
+      <node id="63" label="систем">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-355.55127" y="-720.279"></viz:position>
-        <viz:color r="56" g="13" b="204"></viz:color>
+        <viz:position x="933.044" y="-64.94796"></viz:position>
+        <viz:color r="24" g="153" b="204"></viz:color>
       </node>
-      <node id="64" label="систем">
+      <node id="94" label="создания">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="823.88055" y="-338.13037"></viz:position>
-        <viz:color r="204" g="113" b="96"></viz:color>
+        <viz:position x="386.9039" y="585.7655"></viz:position>
+        <viz:color r="231" g="178" b="31"></viz:color>
       </node>
-      <node id="52" label="создания">
+      <node id="96" label="создание">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="488.76233" y="644.1766"></viz:position>
-        <viz:color r="51" g="200" b="204"></viz:color>
-      </node>
-      <node id="95" label="создание">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-301.4071" y="-605.4034"></viz:position>
-        <viz:color r="56" g="13" b="204"></viz:color>
-      </node>
-      <node id="28" label="пк">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="63.948334" y="-699.0437"></viz:position>
-        <viz:color r="105" g="55" b="204"></viz:color>
+        <viz:position x="509.5262" y="714.58344"></viz:position>
+        <viz:color r="97" g="204" b="8"></viz:color>
       </node>
       <node id="31" label="max">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1176.3499" y="321.62946"></viz:position>
-        <viz:color r="204" g="190" b="14"></viz:color>
-      </node>
-      <node id="91" label="компьютерная_графика">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-626.0391" y="-838.75507"></viz:position>
-        <viz:color r="56" g="13" b="204"></viz:color>
-      </node>
-      <node id="69" label="технология">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="838.41046" y="-148.43402"></viz:position>
-        <viz:color r="204" g="113" b="96"></viz:color>
-      </node>
-      <node id="96" label="растровой">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-695.27747" y="-565.23444"></viz:position>
-        <viz:color r="56" g="13" b="204"></viz:color>
-      </node>
-      <node id="44" label="second_life">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="588.8117" y="380.41336"></viz:position>
-        <viz:color r="21" g="39" b="244"></viz:color>
-      </node>
-      <node id="72" label="проект">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-1139.7695" y="-67.99993"></viz:position>
-        <viz:color r="40" g="204" b="4"></viz:color>
-      </node>
-      <node id="86" label="представила">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-579.039" y="702.1402"></viz:position>
-        <viz:color r="204" g="109" b="22"></viz:color>
-      </node>
-      <node id="3" label="очки">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-327.05127" y="232.8406"></viz:position>
-        <viz:color r="242" g="0" b="0"></viz:color>
-      </node>
-      <node id="80" label="обеспечения">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-1000.53314" y="123.5558"></viz:position>
-        <viz:color r="40" g="204" b="4"></viz:color>
-      </node>
-      <node id="4" label="анимации">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-298.77243" y="171.8566"></viz:position>
-        <viz:color r="242" g="0" b="0"></viz:color>
-      </node>
-      <node id="13" label="rift">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-1075.6525" y="-333.67084"></viz:position>
-        <viz:color r="204" g="31" b="201"></viz:color>
-      </node>
-      <node id="11" label="oculus">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-1018.94183" y="-374.50833"></viz:position>
-        <viz:color r="204" g="31" b="201"></viz:color>
-      </node>
-      <node id="7" label="инструменты">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-488.0715" y="162.736"></viz:position>
-        <viz:color r="242" g="0" b="0"></viz:color>
-      </node>
-      <node id="27" label="погружения">
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="550.14886" y="-594.10144"></viz:position>
+        <viz:position x="-112.15606" y="-600.3908"></viz:position>
         <viz:color r="105" g="55" b="204"></viz:color>
       </node>
-      <node id="5" label="microsoft">
+      <node id="41" label="компьютерная_графика">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-431.84363" y="419.6538"></viz:position>
-        <viz:color r="242" g="0" b="0"></viz:color>
+        <viz:position x="-520.47" y="525.55273"></viz:position>
+        <viz:color r="184" g="204" b="28"></viz:color>
+      </node>
+      <node id="97" label="растровой">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="701.22455" y="493.32803"></viz:position>
+        <viz:color r="97" g="204" b="8"></viz:color>
+      </node>
+      <node id="39" label="second_life">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="236.3472" y="-608.3863"></viz:position>
+        <viz:color r="105" g="55" b="204"></viz:color>
+      </node>
+      <node id="71" label="проект">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-416.1529" y="145.88338"></viz:position>
+        <viz:color r="204" g="8" b="26"></viz:color>
+      </node>
+      <node id="88" label="представила">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1000.3231" y="-182.77084"></viz:position>
+        <viz:color r="188" g="32" b="204"></viz:color>
+      </node>
+      <node id="85" label="очки">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1352.9229" y="-229.00401"></viz:position>
+        <viz:color r="188" g="32" b="204"></viz:color>
+      </node>
+      <node id="3" label="анимации">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="960.61414" y="301.50378"></viz:position>
+        <viz:color r="33" g="204" b="140"></viz:color>
+      </node>
+      <node id="15" label="rift">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1421.4084" y="297.2657"></viz:position>
+        <viz:color r="122" g="204" b="194"></viz:color>
+      </node>
+      <node id="13" label="oculus">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1206.1493" y="433.07806"></viz:position>
+        <viz:color r="122" g="204" b="194"></viz:color>
+      </node>
+      <node id="74" label="windows">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-295.06342" y="112.10511"></viz:position>
+        <viz:color r="204" g="8" b="26"></viz:color>
+      </node>
+      <node id="30" label="погружения">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-790.4156" y="-448.27637"></viz:position>
+        <viz:color r="12" g="21" b="204"></viz:color>
       </node>
       <node id="42" label="объектов">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="456.04544" y="282.08392"></viz:position>
-        <viz:color r="21" g="39" b="244"></viz:color>
+        <viz:position x="-758.4511" y="453.73468"></viz:position>
+        <viz:color r="184" g="204" b="28"></viz:color>
       </node>
       <node id="23" label="nvidia">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="556.0481" y="-632.7923"></viz:position>
-        <viz:color r="105" g="55" b="204"></viz:color>
+        <viz:position x="-1106.8119" y="-357.41425"></viz:position>
+        <viz:color r="12" g="21" b="204"></viz:color>
       </node>
-      <node id="17" label="очков">
+      <node id="19" label="очков">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1044.2401" y="-216.03111"></viz:position>
-        <viz:color r="204" g="31" b="201"></viz:color>
+        <viz:position x="-1463.1865" y="343.62082"></viz:position>
+        <viz:color r="122" g="204" b="194"></viz:color>
       </node>
-      <node id="73" label="виртуального">
+      <node id="4" label="microsoft">
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1353.5038" y="114.39343"></viz:position>
-        <viz:color r="40" g="204" b="4"></viz:color>
+        <viz:position x="702.3063" y="104.63979"></viz:position>
+        <viz:color r="33" g="204" b="140"></viz:color>
       </node>
     </nodes>
     <edges>
-      <edge id="0" source="108" target="85" weight="0.024128315970301628"></edge>
-      <edge id="1" source="105" target="56" weight="0.022016067057847977"></edge>
-      <edge id="2" source="105" target="55" weight="0.024003781378269196"></edge>
-      <edge id="3" source="104" target="48" weight="0.01876179315149784"></edge>
-      <edge id="4" source="109" target="93" weight="0.046379417181015015"></edge>
-      <edge id="5" source="109" target="97" weight="0.01882888190448284"></edge>
-      <edge id="6" source="100" target="8" weight="0.018859829753637314"></edge>
-      <edge id="7" source="103" target="36" weight="0.021921737119555473"></edge>
-      <edge id="8" source="102" target="25" weight="0.01881040260195732"></edge>
-      <edge id="9" source="105" target="57" weight="0.018938768655061722"></edge>
-      <edge id="10" source="105" target="59" weight="0.01691485568881035"></edge>
-      <edge id="11" source="106" target="68" weight="0.018462330102920532"></edge>
-      <edge id="12" source="103" target="35" weight="0.027425985783338547"></edge>
-      <edge id="13" source="101" target="20" weight="0.016558397561311722"></edge>
-      <edge id="14" source="104" target="46" weight="0.021516475826501846"></edge>
-      <edge id="15" source="106" target="67" weight="0.020855139940977097"></edge>
-      <edge id="16" source="101" target="16" weight="0.033153142780065536"></edge>
-      <edge id="17" source="105" target="51" weight="0.2696243226528168"></edge>
-      <edge id="18" source="109" target="98" weight="0.017946043983101845"></edge>
-      <edge id="19" source="105" target="53" weight="0.0370250828564167"></edge>
-      <edge id="20" source="101" target="14" weight="0.03720421716570854"></edge>
-      <edge id="21" source="101" target="15" weight="0.03571755439043045"></edge>
-      <edge id="22" source="107" target="77" weight="0.016473621129989624"></edge>
-      <edge id="23" source="107" target="75" weight="0.021564478054642677"></edge>
-      <edge id="24" source="104" target="50" weight="0.017253924161195755"></edge>
-      <edge id="25" source="109" target="94" weight="0.042181916534900665"></edge>
-      <edge id="26" source="103" target="37" weight="0.017504887655377388"></edge>
-      <edge id="27" source="101" target="12" weight="0.04893459379673004"></edge>
-      <edge id="28" source="104" target="43" weight="0.035775117576122284"></edge>
-      <edge id="29" source="106" target="70" weight="0.016460582613945007"></edge>
-      <edge id="30" source="106" target="66" weight="0.021075788885354996"></edge>
-      <edge id="31" source="100" target="6" weight="0.02096390351653099"></edge>
-      <edge id="32" source="109" target="99" weight="0.015837186947464943"></edge>
-      <edge id="33" source="102" target="29" weight="0.010817678645253181"></edge>
-      <edge id="34" source="102" target="26" weight="0.017984818667173386"></edge>
-      <edge id="35" source="104" target="47" weight="0.020426856353878975"></edge>
-      <edge id="36" source="107" target="79" weight="0.015798654407262802"></edge>
-      <edge id="37" source="108" target="88" weight="0.02057030238211155"></edge>
-      <edge id="38" source="101" target="19" weight="0.02010670118033886"></edge>
-      <edge id="39" source="107" target="71" weight="0.15264776349067688"></edge>
-      <edge id="40" source="102" target="30" weight="0.010093938559293747"></edge>
-      <edge id="41" source="104" target="45" weight="0.028375906869769096"></edge>
-      <edge id="42" source="106" target="65" weight="0.024734292179346085"></edge>
-      <edge id="43" source="101" target="18" weight="0.03016621433198452"></edge>
-      <edge id="44" source="103" target="40" weight="0.009311978705227375"></edge>
-      <edge id="45" source="108" target="83" weight="0.0386669896543026"></edge>
-      <edge id="46" source="108" target="82" weight="0.09492169320583344"></edge>
-      <edge id="47" source="100" target="2" weight="0.12086047232151031"></edge>
-      <edge id="48" source="105" target="54" weight="0.033009037375450134"></edge>
-      <edge id="49" source="109" target="100" weight="0.014495898969471455"></edge>
-      <edge id="50" source="106" target="61" weight="0.12192123383283615"></edge>
-      <edge id="51" source="100" target="1" weight="0.12160485982894897"></edge>
-      <edge id="52" source="108" target="90" weight="0.01959051378071308"></edge>
-      <edge id="53" source="100" target="9" weight="0.01746794953942299"></edge>
-      <edge id="54" source="103" target="32" weight="0.12073181569576263"></edge>
-      <edge id="55" source="103" target="39" weight="0.009607416577637196"></edge>
-      <edge id="56" source="107" target="74" weight="0.03421332314610481"></edge>
-      <edge id="57" source="108" target="89" weight="0.020038723945617676"></edge>
-      <edge id="58" source="102" target="22" weight="0.10194729268550873"></edge>
-      <edge id="59" source="103" target="38" weight="0.011228206567466259"></edge>
-      <edge id="60" source="108" target="87" weight="0.021048162132501602"></edge>
-      <edge id="61" source="106" target="62" weight="0.056119244545698166"></edge>
-      <edge id="62" source="107" target="76" weight="0.016480226069688797"></edge>
-      <edge id="63" source="104" target="49" weight="0.017597172409296036"></edge>
-      <edge id="64" source="108" target="84" weight="0.02778305858373642"></edge>
-      <edge id="65" source="102" target="21" weight="0.4086918830871582"></edge>
-      <edge id="66" source="103" target="33" weight="0.05538206547498703"></edge>
-      <edge id="67" source="104" target="41" weight="0.05443161353468895"></edge>
-      <edge id="68" source="105" target="58" weight="0.018743805587291718"></edge>
-      <edge id="69" source="108" target="81" weight="0.11098027229309082"></edge>
-      <edge id="70" source="103" target="34" weight="0.045226264744997025"></edge>
-      <edge id="71" source="100" target="10" weight="0.017407376319169998"></edge>
-      <edge id="72" source="105" target="60" weight="0.015568180941045284"></edge>
-      <edge id="73" source="102" target="24" weight="0.02974024973809719"></edge>
-      <edge id="74" source="106" target="63" weight="0.0453796312212944"></edge>
-      <edge id="75" source="107" target="78" weight="0.015891075134277344"></edge>
-      <edge id="76" source="109" target="92" weight="0.0509551502764225"></edge>
-      <edge id="77" source="106" target="64" weight="0.029332131147384644"></edge>
-      <edge id="78" source="105" target="52" weight="0.04931899160146713"></edge>
-      <edge id="79" source="109" target="95" weight="0.027328994125127792"></edge>
-      <edge id="80" source="102" target="28" weight="0.012972600758075714"></edge>
-      <edge id="81" source="103" target="31" weight="0.12666729092597961"></edge>
-      <edge id="82" source="109" target="91" weight="0.1363578885793686"></edge>
-      <edge id="83" source="106" target="69" weight="0.01747572235763073"></edge>
-      <edge id="84" source="109" target="96" weight="0.02252049557864666"></edge>
-      <edge id="85" source="104" target="44" weight="0.03263530880212784"></edge>
-      <edge id="86" source="107" target="72" weight="0.07851655036211014"></edge>
-      <edge id="87" source="108" target="86" weight="0.021438417956233025"></edge>
-      <edge id="88" source="100" target="3" weight="0.051115576177835464"></edge>
-      <edge id="89" source="107" target="80" weight="0.015496908687055111"></edge>
-      <edge id="90" source="100" target="4" weight="0.040906112641096115"></edge>
-      <edge id="91" source="101" target="13" weight="0.04757598415017128"></edge>
-      <edge id="92" source="101" target="11" weight="0.0671103298664093"></edge>
-      <edge id="93" source="100" target="7" weight="0.020230451598763466"></edge>
-      <edge id="94" source="102" target="27" weight="0.013505145907402039"></edge>
-      <edge id="95" source="100" target="5" weight="0.03573321923613548"></edge>
-      <edge id="96" source="104" target="42" weight="0.0501740388572216"></edge>
-      <edge id="97" source="102" target="23" weight="0.030788704752922058"></edge>
-      <edge id="98" source="101" target="17" weight="0.030378254130482674"></edge>
-      <edge id="99" source="107" target="73" weight="0.03551865369081497"></edge>
+      <edge id="0" source="108" target="87" weight="0.02115052193403244"></edge>
+      <edge id="1" source="105" target="57" weight="0.02227749116718769"></edge>
+      <edge id="2" source="105" target="55" weight="0.024247748777270317"></edge>
+      <edge id="3" source="104" target="47" weight="0.02155338041484356"></edge>
+      <edge id="4" source="109" target="93" weight="0.0446174293756485"></edge>
+      <edge id="5" source="100" target="6" weight="0.022474516183137894"></edge>
+      <edge id="6" source="102" target="26" weight="0.029200026765465736"></edge>
+      <edge id="7" source="106" target="69" weight="0.014666466042399406"></edge>
+      <edge id="8" source="105" target="58" weight="0.01909477636218071"></edge>
+      <edge id="9" source="105" target="60" weight="0.01712452434003353"></edge>
+      <edge id="10" source="106" target="68" weight="0.014714413322508335"></edge>
+      <edge id="11" source="103" target="34" weight="0.029980920255184174"></edge>
+      <edge id="12" source="104" target="46" weight="0.024846713989973068"></edge>
+      <edge id="13" source="106" target="66" weight="0.02531692385673523"></edge>
+      <edge id="14" source="101" target="18" weight="0.024409016594290733"></edge>
+      <edge id="15" source="105" target="51" weight="0.2706807255744934"></edge>
+      <edge id="16" source="109" target="99" weight="0.019232986494898796"></edge>
+      <edge id="17" source="105" target="53" weight="0.03614411503076553"></edge>
+      <edge id="18" source="101" target="16" weight="0.027436725795269012"></edge>
+      <edge id="19" source="101" target="17" weight="0.02630133368074894"></edge>
+      <edge id="20" source="107" target="78" weight="0.02071007341146469"></edge>
+      <edge id="21" source="107" target="75" weight="0.02708338387310505"></edge>
+      <edge id="22" source="109" target="92" weight="0.04628000408411026"></edge>
+      <edge id="23" source="103" target="37" weight="0.0170951746404171"></edge>
+      <edge id="24" source="101" target="14" weight="0.036123260855674744"></edge>
+      <edge id="25" source="104" target="50" weight="0.019750112667679787"></edge>
+      <edge id="26" source="104" target="43" weight="0.04101399704813957"></edge>
+      <edge id="27" source="106" target="70" weight="0.014308606274425983"></edge>
+      <edge id="28" source="106" target="67" weight="0.02003292925655842"></edge>
+      <edge id="29" source="106" target="65" weight="0.02531692385673523"></edge>
+      <edge id="30" source="108" target="89" weight="0.018690964207053185"></edge>
+      <edge id="31" source="107" target="72" weight="0.04460998624563217"></edge>
+      <edge id="32" source="102" target="27" weight="0.02834112010896206"></edge>
+      <edge id="33" source="102" target="25" weight="0.03676437586545944"></edge>
+      <edge id="34" source="107" target="80" weight="0.02007274143397808"></edge>
+      <edge id="35" source="103" target="77" weight="0.019444648176431656"></edge>
+      <edge id="36" source="105" target="77" weight="0.05601362884044647"></edge>
+      <edge id="37" source="107" target="77" weight="0.02464204467833042"></edge>
+      <edge id="38" source="100" target="10" weight="0.01930462382733822"></edge>
+      <edge id="39" source="100" target="9" weight="0.01988096907734871"></edge>
+      <edge id="40" source="104" target="45" weight="0.032630957663059235"></edge>
+      <edge id="41" source="106" target="64" weight="0.029940415173768997"></edge>
+      <edge id="42" source="101" target="20" weight="0.01615537889301777"></edge>
+      <edge id="43" source="102" target="29" weight="0.02318767085671425"></edge>
+      <edge id="44" source="103" target="40" weight="0.009601421654224396"></edge>
+      <edge id="45" source="108" target="83" weight="0.08264599740505219"></edge>
+      <edge id="46" source="100" target="2" weight="0.1412012130022049"></edge>
+      <edge id="47" source="105" target="54" weight="0.03331056609749794"></edge>
+      <edge id="48" source="100" target="8" weight="0.01988097093999386"></edge>
+      <edge id="49" source="106" target="61" weight="0.14640843868255615"></edge>
+      <edge id="50" source="100" target="1" weight="0.14206576347351074"></edge>
+      <edge id="51" source="107" target="76" weight="0.024944795295596123"></edge>
+      <edge id="52" source="100" target="7" weight="0.020457318052649498"></edge>
+      <edge id="53" source="103" target="32" weight="0.13174256682395935"></edge>
+      <edge id="54" source="103" target="38" weight="0.010543311014771461"></edge>
+      <edge id="55" source="109" target="95" weight="0.036046721041202545"></edge>
+      <edge id="56" source="107" target="73" weight="0.043016668409109116"></edge>
+      <edge id="57" source="109" target="100" weight="0.018836209550499916"></edge>
+      <edge id="58" source="101" target="84" weight="0.07490667700767517"></edge>
+      <edge id="59" source="108" target="84" weight="0.03295767307281494"></edge>
+      <edge id="60" source="102" target="28" weight="0.023760274052619934"></edge>
+      <edge id="61" source="108" target="90" weight="0.018315622583031654"></edge>
+      <edge id="62" source="106" target="62" weight="0.06758882105350494"></edge>
+      <edge id="63" source="109" target="98" weight="0.019999081268906593"></edge>
+      <edge id="64" source="107" target="79" weight="0.02071007341146469"></edge>
+      <edge id="65" source="104" target="49" weight="0.02035580389201641"></edge>
+      <edge id="66" source="108" target="86" weight="0.02420348860323429"></edge>
+      <edge id="67" source="101" target="81" weight="0.29231178760528564"></edge>
+      <edge id="68" source="108" target="81" weight="0.1409144103527069"></edge>
+      <edge id="69" source="103" target="33" weight="0.056879784911870956"></edge>
+      <edge id="70" source="100" target="44" weight="0.023235013708472252"></edge>
+      <edge id="71" source="104" target="44" weight="0.03842752054333687"></edge>
+      <edge id="72" source="105" target="59" weight="0.018943220376968384"></edge>
+      <edge id="73" source="108" target="82" weight="0.09659985452890396"></edge>
+      <edge id="74" source="102" target="35" weight="0.05566936358809471"></edge>
+      <edge id="75" source="103" target="35" weight="0.024714158847928047"></edge>
+      <edge id="76" source="104" target="48" weight="0.02125398814678192"></edge>
+      <edge id="77" source="102" target="24" weight="0.046091899275779724"></edge>
+      <edge id="78" source="102" target="21" weight="0.07128653675317764"></edge>
+      <edge id="79" source="109" target="91" weight="0.05581558868288994"></edge>
+      <edge id="80" source="106" target="63" weight="0.03544456884264946"></edge>
+      <edge id="81" source="105" target="94" weight="0.02230382151901722"></edge>
+      <edge id="82" source="109" target="94" weight="0.0371035635471344"></edge>
+      <edge id="83" source="109" target="96" weight="0.030232373625040054"></edge>
+      <edge id="84" source="103" target="31" weight="0.1382216513156891"></edge>
+      <edge id="85" source="104" target="41" weight="0.1922081559896469"></edge>
+      <edge id="86" source="109" target="97" weight="0.0246505718678236"></edge>
+      <edge id="87" source="103" target="39" weight="0.009889446198940277"></edge>
+      <edge id="88" source="107" target="71" weight="0.09846444427967072"></edge>
+      <edge id="89" source="108" target="88" weight="0.018751762807369232"></edge>
+      <edge id="90" source="108" target="85" weight="0.032282084226608276"></edge>
+      <edge id="91" source="100" target="3" weight="0.04812180995941162"></edge>
+      <edge id="92" source="101" target="15" weight="0.035005997866392136"></edge>
+      <edge id="93" source="101" target="13" weight="0.049387626349925995"></edge>
+      <edge id="94" source="107" target="74" weight="0.030588705092668533"></edge>
+      <edge id="95" source="102" target="30" weight="0.020897245034575462"></edge>
+      <edge id="96" source="104" target="42" weight="0.057452380657196045"></edge>
+      <edge id="97" source="102" target="23" weight="0.04780971258878708"></edge>
+      <edge id="98" source="101" target="19" weight="0.022513827309012413"></edge>
+      <edge id="99" source="100" target="4" weight="0.038405731320381165"></edge>
     </edges>
   </graph>
 </gexf>
